@@ -1,5 +1,5 @@
 # boilerplate
 
-https://bestlaravel.com/t/boilerplate
-https://talltips.novate.co.uk
-https://tallstack.dev/
+1. https://bestlaravel.com/t/boilerplate
+2. https://talltips.novate.co.uk
+3. https://tallstack.dev
